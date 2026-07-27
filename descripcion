@@ -1,29 +1,22 @@
-SoundPro
+ SoundPro
 
-SoundPro es un proyecto para crear una aplicación destinada a técnicos de sonido en vivo, diseñada para optimizar la organización y distribución de canales de audio en escenarios. Permite registrar instrumentos, planificar su ubicación en el escenario y asignar canales a las pacheras de forma eficiente, facilitando la preparación de eventos en vivo.
+SoundPro es un proyecto open-source dedicado al desarrollo de herramientas para profesionales del sonido en vivo.
 
-¿Por qué colaborar?
+pach_pro
 
-Buscamos personas apasionadas por la tecnología y el sonido en vivo para:
+pach_pro es una aplicación que permite organizar escenarios, músicos, instrumentos y canales de audio de forma rápida, clara y eficiente. Su objetivo es simplificar la planificación técnica, reducir errores durante el montaje y optimizar el trabajo del técnico de sonido antes y durante un evento.
 
-Desarrollar nuevas funcionalidades de gestión de músicos y canales.
+ Colabora con nosotros
 
-Optimizar la distribución de audio en escenarios complejos.
+Buscamos personas interesadas en contribuir al crecimiento del proyecto mediante:
 
-Mejorar la interfaz y visualización del escenario.
+* Desarrollo de nuevas funcionalidades en Python.
+* Diseño y mejora de la interfaz de usuario.
+* Optimización de la gestión de canales y escenarios.
+* Aportes técnicos relacionados con el sonido en vivo.
 
-Crear herramientas inteligentes que faciliten el trabajo del técnico de sonido.
+Nuestro objetivo
 
-Perfil deseado
+Construir una herramienta práctica, robusta y colaborativa que se convierta en una referencia para la planificación de audio en vivo.
 
-Desarrolladores Python interesados en audio o aplicaciones en tiempo real.
-
-Diseñadores UX/UI que quieran mejorar la experiencia de usuario.
-
-Entusiastas del sonido en vivo que aporten conocimientos técnicos.
-
-Objetivo
-
-Construir una herramienta práctica y robusta que reduzca errores, agilice la organización del sonido y brinde un control completo del escenario, mientras colaboramos en un proyecto open-source en crecimiento.
-
-¡Únete a SoundPro y ayúdanos a revolucionar la planificación de audio en vivo!
+Si te interesa el desarrollo de software o el sonido profesional, te invitamos a formar parte de SoundPro y colaborar en pach_pro.
